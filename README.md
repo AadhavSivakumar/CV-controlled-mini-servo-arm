@@ -4,10 +4,13 @@ Controlling a small desktop robot arm using a raspberry pi and computer vision t
 ## V3.0 (Future)
 Articulated Arm that tracks the angle of the wrist through MediaPipe and uses motors with encoders.
 
+### Current Objectives
+- Researching best motors to use
+ 
 ## V2.0 (In-Progress)
 PUMA Arm with servos that integrates with MediaPipe to detect hand motion to open and close gripper
 
-### Current Progress
+### Current Objectives
 - Researching best motors to use
 - Researching different microcontrollers
 
