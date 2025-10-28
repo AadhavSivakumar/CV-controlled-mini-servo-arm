@@ -13,6 +13,7 @@ PUMA Arm with servos that integrates with MediaPipe to detect hand motion to ope
 ### Current Objectives
 - Researching best motors to use
 - Researching different microcontrollers
+- Printing [Pre-Designed Arm](https://www.thingiverse.com/thing:1838120) from thingiverse to develop controls for
 
 ### Learning Objectives
 - Maybe RTOS?
